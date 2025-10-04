@@ -469,11 +469,12 @@ a {
   position: fixed;
   bottom: 0px;
   width: 100%;
+  background-color: black;
 }
 #footer_content p {
   text-align: center;
 
-  color: black;
+  color: white;
 }
 
 /* shimmer ui css */

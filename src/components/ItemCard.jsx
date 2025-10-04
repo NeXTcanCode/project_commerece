@@ -53,7 +53,7 @@ function ItemCard({ item_data }) {
               className="btn btn-dark mt-auto"
               onClick={() => dispatch(addItem(item_data))}
             >
-              Buy Now
+              Add to Cart
             </button>
           )}
         </div>

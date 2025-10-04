@@ -7,6 +7,7 @@ function Footer() {
         copyright <i className="bi bi-c-circle"></i>
         {year}
         <span> NeXT E-Com</span>
+        <span>|GitHub : NeXTcanCode</span>
       </p>
     </div>
   );
